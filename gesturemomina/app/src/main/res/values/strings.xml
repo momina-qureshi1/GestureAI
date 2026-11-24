@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestureAI</string>
+
+    <string name="splash_tagline">Smart Hand Gesture Recognition</string>
+
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue to GestureAI</string>
+    <string name="signup_title">Create Account</string>
+    <string name="signup_subtitle">Join GestureAI today</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Logout</string>
+
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <string name="dashboard_title">Your Gesture Dashboard</string>
+    <string name="dashboard_subtitle">Recognize hand gestures with AI</string>
+
+    <string name="camera_detection">Detect Gesture (Camera)</string>
+    <string name="gallery_detection">Pick Image from Gallery</string>
+    <string name="my_history">My History</string>
+    <string name="about">About GestureAI</string>
+
+    <string name="supported_gestures">Supported Gestures</string>
+    <string name="camera_title">Live Gesture Detection</string>
+    <string name="gallery_title">Gallery Detection</string>
+    <string name="history_title">Prediction History</string>
+    <string name="clear_history">Clear History</string>
+
+    <string name="no_prediction">Show your hand to the camera</string>
+    <string name="no_history">No predictions saved yet</string>
+    <string name="capture_save">Capture &amp; Save to History</string>
+    <string name="pick_image">Choose Image</string>
+    <string name="save_prediction">Save Prediction</string>
+
+    <string name="about_description">GestureAI uses MobileNetV2 and TensorFlow Lite to recognize 15 hand gestures directly on your Android device.</string>
+
+</resources>
